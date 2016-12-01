@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exeption2", "Exeption2\Exeption2.csproj", "{7E348A0D-720F-407C-B8D2-38CC2FEBDC17}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F8CA9766-43B2-4460-9292-03D4D085A491}"
+	ProjectSection(SolutionItems) = preProject
+		ParelleliOAsync.cs = ParelleliOAsync.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
